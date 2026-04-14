@@ -1,5 +1,13 @@
 name,age,spending,category
+Kevin,40,4000,VIP
+Helen,35,3200,VIP
 Charlie,30,2500,VIP
+Nina,24,2100,VIP
+Julia,26,1800,VIP
 Emma,19,1500,VIP
 Alice,25,1200,Medium
+Mike,29,1100,Medium
+George,28,950,Medium
 David,22,800,Medium
+Ivan,21,700,Low
+Oscar,33,500,Low
